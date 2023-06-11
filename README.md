@@ -1,6 +1,6 @@
 # Gamma-Stimulation-AD-Proposal
 
-**Research Lead:** Mateo Umaguing
+**Research Lead:** Mateo Umaguing\\
 **Project Scientists:** John Walkiewicz, Logan Umaguing
 
 ## Poster (Presented at the InT@UCLA BioHackathon)
